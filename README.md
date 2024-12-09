@@ -13,7 +13,7 @@ This repository contains two Jupyter Notebooks demonstrating advanced data analy
 
 The dataset used for both notebooks can be accessed via the following link:
 
-- [Download Dataset](https://drive.google.com/file/d/1M5yxMfm6bZT6bc_eNjrO3WFUKVd-OxB5/view?usp=drive_link)&#8203;:contentReference[oaicite:0]{index=0}.
+- [Download Dataset](https://drive.google.com/file/d/1M5yxMfm6bZT6bc_eNjrO3WFUKVd-OxB5/view?usp=drive_link).
 
 Ensure you download the dataset and place it in the appropriate directory before running the notebooks.
 

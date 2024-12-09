@@ -56,7 +56,7 @@ jupyter notebook
 
 ## Acknowledgments
 
-. Google for hosting the dataset.
+- Google for hosting the dataset.
 
 
 ## License

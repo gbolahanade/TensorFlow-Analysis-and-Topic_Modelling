@@ -28,9 +28,9 @@ Before running the notebooks, make sure you have the following dependencies inst
 
 You can install these dependencies via pip:
 
-```bash
+```
 pip install tensorflow numpy pandas matplotlib scikit-learn nltk
-```bash
+```
 
 ## How to Run
 

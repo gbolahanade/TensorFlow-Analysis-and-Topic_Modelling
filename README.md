@@ -5,6 +5,8 @@ This repository contains two Jupyter Notebooks demonstrating advanced data analy
 ## Contents
 
 - **Tensorflow_data_analysis-REV01.ipynb**: A Jupyter notebook demonstrating data analysis techniques of TensorFlow Posts. This notebook focuses on an in-depth exploration of the evolution of TensorFlow posts on StackOverflow, with a goal to uncover emerging trends, dissect prevalent research questions, and identify the core topics that have captivated the community's interest.
+
+
 - **Tensorflow_topic_modelling-REV01.ipynb**: A Jupyter notebook focused on topic modeling of TensorFlow Posts. The notebook includes steps for data preprocessing, feature extraction, model training, and evaluation of topics extracted from the dataset using various natural language processing libraries.
 
 ## Dataset
@@ -36,18 +38,18 @@ pip install tensorflow numpy pandas matplotlib scikit-learn nltk
 
 1. Clone this repository:
 
-```bash
+```
 git clone https://github.com/gbolahanade/TensorFlow-Analysis-and-Topic_Modelling.git
 cd TensorFlow-Analysis-and-Topic_Modelling
-```bash
+```
 
 2. Download the dataset from the provided link and place it in the project directory.
 
 3. Open and run the Jupyter notebooks in your favorite environment:
 
-```bash
+```
 jupyter notebook
-```bash
+```
 
 4. Follow the instructions in the notebooks to perform data analysis and topic modeling.
 
